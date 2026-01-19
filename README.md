@@ -2,8 +2,9 @@
 <!-- PROFILE BANNER -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=200&section=header&text=Gonçalo%20Mendes&fontSize=42&fontColor=00FFFF&animation=wave&fontAlign=35&fontFamily=Space+Grotesk" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=200&section=header&text=Gonçalo%20Mendes&fontSize=48&fontColor=22d3ee&animation=wave&fontAlign=35&fontFamily=Viga" />
 </p>
+
 
 
 <p align="center">
