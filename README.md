@@ -109,6 +109,4 @@ If you’re interested in collaborating, freelancing, or talking tech:
 
 ---
 
-<p align="center">
-  <img src="./banner.png" alt="Footer Banner" width="800"/>
-</p>
+
