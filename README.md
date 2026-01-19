@@ -107,6 +107,5 @@ If you’re interested in collaborating, freelancing, or talking tech:
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/goncalo-mendes" target="_blank" rel="noopener noreferrer">goncalo-mendes</a>  
 - 🌐 Portfolio: <a href="https://goncalo-mendes.vercel.app" target="_blank" rel="noopener noreferrer">goncalo-mendes.vercel.app</a>  
 
----
 
 
