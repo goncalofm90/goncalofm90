@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <strong>Full-Stack Web Developer · Creative Technologist</strong>
+  <strong>Frontend Developer · React Enthusiast · Creative Technologist</strong>
 </p>
 
 <p align="center">
@@ -22,12 +22,12 @@
 
 ## 👋 About Me
 
-I’m a **web developer** focused on building modern, performant, and user-centric applications.  
-I enjoy working across the stack — from clean, maintainable front-end interfaces to pragmatic backend logic and integrations.
+I’m a **frontend developer** passionate about building modern, interactive, and performant web applications.  
+I specialize in crafting **clean, dynamic user interfaces** and seamless user experiences with **React** and modern frontend tooling.
 
-- 💻 Full-stack development with **JavaScript / TypeScript / Ruby**
-- 🎯 Strong focus on **UX, performance, and maintainability**
-- 🚀 Interested in creative coding, tooling, and interactive experiences
+- 💻 Frontend development with **React, Vue, JavaScript, TypeScript**
+- 🎨 Focused on **UI/UX, accessibility, and performance**
+- 🚀 Interested in **interactive experiences, creative coding, and modern web tooling**
 - 🌍 Based in **Lisbon, Portugal**
 
 ---
@@ -36,36 +36,40 @@ I enjoy working across the stack — from clean, maintainable front-end interfac
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,ruby,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,react,nodejs,rails,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,nodejs,git,github,vercel" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🍽️ **foodi3**
-A food & drink recipe management platform built with **TypeScript**, focusing on clean UI, data handling, and scalability.
-
 ### 🌐 **portfolio-new**
-My latest personal portfolio — a modern frontend build showcasing selected projects and professional growth.
+My latest personal portfolio — a **React frontend** showcasing projects and professional growth.  
+**Focus:** Component architecture, responsive design, performance optimization.
+
+### 🍽️ **foodi3**
+A recipe management platform built with **React & TypeScript**.  
+**Focus:** UI/UX, scalable frontend structure, clean data handling.
 
 ### 🍸 **monarch-cocktail-bar**
-Freelancing project for a Lisbon cocktail bar.  
-A polished marketing website built with **JavaScript** and interactive UI elements.
+Interactive marketing website for a Lisbon cocktail bar using **React & JavaScript**.  
+**Focus:** Animations, interactive UI elements, responsive design.
 
 ### 🧟 **Hell-On-Earth**
-A retro-inspired zombie survival browser game — built for fun, game logic exploration, and performance experimentation.
+Retro-inspired browser game built with **React**.  
+**Focus:** Frontend game logic, performance optimization, interactive UI.
 
 ### 🎸 **Bandspace**
-An MVP for a musicians’ network: collaboration, events, and digital presence for artists.
+MVP for a musicians’ network.  
+**Focus:** React-driven frontend, event handling, and collaborative features.
 
 ### 📦 **salsify_parser**
-A Ruby utility to parse and extract data from Salsify XML feeds — focused on automation and reliability.
+A Ruby utility for parsing Salsify XML feeds — included here to show **backend scripting and automation** experience.
 
 ---
 
@@ -88,15 +92,17 @@ A Ruby utility to parse and extract data from Salsify XML feeds — focused on a
 
 ## 🧠 Currently Exploring
 
-- Advanced frontend architecture patterns  
-- Backend integrations and scalable APIs  
-- Tooling, automation, and developer experience improvements  
+- Advanced **React patterns** (hooks, context, state management)
+- Component libraries & **design systems**
+- **Performance optimization** & frontend architecture
+- Tooling & **developer experience improvements**
+- Interactive web experiences & creative coding
 
 ---
 
 ## 🤝 Let’s Connect
 
-If you’re interested in collaborating, freelancing, or just talking tech:
+If you’re interested in collaborating, freelancing, or talking tech:
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/goncalo-mendes" target="_blank" rel="noopener noreferrer">goncalo-mendes</a>  
 - 🌐 Portfolio: <a href="https://goncalo-mendes.vercel.app" target="_blank" rel="noopener noreferrer">goncalo-mendes.vercel.app</a>  
