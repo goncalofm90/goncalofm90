@@ -2,7 +2,7 @@
 <!-- PROFILE BANNER -->
 <!-- ===================== -->
 <p align="center">
-  <img src="./banner.png" alt="Gonçalo Mendes Banner" width="800"/>
+  <img src="./banner.png" alt="Gonçalo Mendes Banner" width="400"/>
 </p>
 
 <p align="center">
