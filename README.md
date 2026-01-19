@@ -2,7 +2,7 @@
 <!-- PROFILE BANNER -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=200&section=header&text=Gonçalo%20Mendes&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="./banner.png" alt="Gonçalo Mendes Banner" width="800"/>
 </p>
 
 <p align="center">
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/goncalo-mendes">
+  <a href="https://www.linkedin.com/in/goncalo-mendes" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://goncalo-mendes.vercel.app">
+  <a href="https://goncalo-mendes.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -98,11 +98,11 @@ A Ruby utility to parse and extract data from Salsify XML feeds — focused on a
 
 If you’re interested in collaborating, freelancing, or just talking tech:
 
-- 💼 LinkedIn: https://www.linkedin.com/in/goncalo-mendes  
-- 🌐 Portfolio: https://goncalo-mendes.vercel.app  
+- 💼 LinkedIn: <a href="https://www.linkedin.com/in/goncalo-mendes" target="_blank" rel="noopener noreferrer">goncalo-mendes</a>  
+- 🌐 Portfolio: <a href="https://goncalo-mendes.vercel.app" target="_blank" rel="noopener noreferrer">goncalo-mendes.vercel.app</a>  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=120&section=footer" />
+  <img src="./banner.png" alt="Footer Banner" width="800"/>
 </p>
