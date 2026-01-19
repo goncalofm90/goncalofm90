@@ -2,10 +2,8 @@
 <!-- PROFILE BANNER -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:111827&height=200&section=header&text=Gonçalo%20Mendes&fontSize=48&fontColor=22d3ee&animation=wave&fontAlign=35&fontFamily=Viga" />
+  <img src="./banner.webp" alt="Gonçalo Mendes Banner" width="800"/>
 </p>
-
-
 
 <p align="center">
   <strong>Full-Stack Web Developer · Creative Technologist</strong>
