@@ -48,7 +48,7 @@ I specialize in crafting **clean, dynamic user interfaces** and seamless user ex
 
 ## 🚀 Featured Projects
 
-### 🌐 **portfolio-new**
+### 🌐 **portfolio-2026**
 My latest personal portfolio — a **React frontend** showcasing projects and professional growth.  
 **Focus:** Component architecture, responsive design, performance optimization.
 
