@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/goncalo-mendes" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://goncalo-mendes.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://gm-porfolio-2026.vercel.app" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
