@@ -48,28 +48,29 @@ I specialize in crafting **clean, dynamic user interfaces** and seamless user ex
 
 ## 🚀 Featured Projects
 
-### 🌐 **portfolio-2026**
-My latest personal portfolio — a **React frontend** showcasing projects and professional growth.  
-**Focus:** Component architecture, responsive design, performance optimization.
-
 ### 🍽️ **foodi3**
 A recipe management platform built with **React & TypeScript**.  
 **Focus:** UI/UX, scalable frontend structure, clean data handling.
 
-### 🍸 **monarch-cocktail-bar**
-Interactive marketing website for a Lisbon cocktail bar using **React & JavaScript**.  
-**Focus:** Animations, interactive UI elements, responsive design.
+### 🌐 **portfolio-2026**
+My latest personal portfolio — a **React frontend** showcasing projects and professional growth.  
+**Focus:** Component architecture, responsive design, performance optimization.
 
-### 🧟 **Hell-On-Earth**
-Retro-inspired browser game built with **React**.  
-**Focus:** Frontend game logic, performance optimization, interactive UI.
+### 🌐 **portfolio-sandra-lemos**
+**Freelancing Project** a portfolio website built with **React** and **Typescript**.  
+**Focus:** Component architecture, responsive design and figma fidelity, performance optimization.
+
+### 🎸 **Alexandre Morais Website**
+A business website built with **React** and **Typescript**.  
+**Focus:** Frontend design, static typing, performance optimization, interactive UI.
 
 ### 🎸 **Bandspace**
 MVP for a musicians’ network.  
 **Focus:** React-driven frontend, event handling, and collaborative features.
 
-### 📦 **salsify_parser**
-A Ruby utility for parsing Salsify XML feeds — included here to show **backend scripting and automation** experience.
+### 🍸 **monarch-cocktail-bar**
+Interactive marketing website for a Lisbon cocktail bar using **React & JavaScript**.  
+**Focus:** Animations, interactive UI elements, responsive design.
 
 ---
 
