@@ -60,9 +60,11 @@ My latest personal portfolio — a **React frontend** showcasing projects and pr
 
 **Have a look**: https://gm-porfolio-2026.vercel.app/
 
-### 🚧 **WIP: portfolio-sandra-lemos**
+### 🚧 **portfolio-sandra-lemos**
 **Freelancing Project** a portfolio website built with **React** and **Typescript**.  
 **Focus:** Component architecture, responsive design and figma fidelity, performance optimization.
+
+**Have a look**: https://portfolio-sandra-lemos.vercel.app/
 
 ### 🎸 **Alexandre Morais Website**
 A business website built with **React** and **Typescript**.  
