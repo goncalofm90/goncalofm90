@@ -27,9 +27,13 @@ jobs:
             dist/github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          COLOR_SNAKE: FF00FF # magenta
-          BACKGROUND_COLOR: 111827 # Tokyo Night dark
-          PALETTE: github-dark
+          COLOR_SNAKE: FF00FF
+          COLOR_DOTS[0]: 161b22
+          COLOR_DOTS[1]: 0e4429
+          COLOR_DOTS[2]: 006d32
+          COLOR_DOTS[3]: 26a641
+          COLOR_DOTS[4]: 39d353
+          BACKGROUND_COLOR: 111827
 
       - name: Push to output branch
         run: |
