@@ -13,7 +13,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Contribution Snake SVG
-        uses: anuraghazra/github-contribution-grid-snake@v2
+        uses: Platane/snk@v3
         with:
           username: goncalofm90
           token: ${{ secrets.GITHUB_TOKEN }}
