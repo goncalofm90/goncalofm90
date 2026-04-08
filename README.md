@@ -54,13 +54,13 @@ A recipe management platform built with **React & TypeScript**.
 
 **Have a look**: https://foodi3.appwrite.network/auth
 
-### 🌐 **portfolio-2026**
+### 💻 **portfolio-2026**
 My latest personal portfolio — a **React frontend** showcasing projects and professional growth.  
 **Focus:** Component architecture, responsive design, performance optimization.
 
 **Have a look**: https://gm-porfolio-2026.vercel.app/
 
-### 🚧 **portfolio-sandra-lemos**
+### 🎨 **portfolio-sandra-lemos**
 **Freelancing Project** a portfolio website built with **React** and **Typescript**.  
 **Focus:** Component architecture, responsive design and figma fidelity, performance optimization.
 
@@ -72,11 +72,11 @@ A business website built with **React** and **Typescript**.
 
 **Have a look** : https://alexandre-morais-bass.vercel.app/
 
-### 🎸 **Bandspace**
+### 🎹 **Bandspace**
 MVP for a musicians’ network.  
 **Focus:** React-driven frontend, event handling, and collaborative features.
 
-### 🍸 **monarch-cocktail-bar**
+### 🍹 **monarch-cocktail-bar**
 Interactive marketing website for a Lisbon cocktail bar using **React & JavaScript**.  
 **Focus:** Animations, interactive UI elements, responsive design.
 
