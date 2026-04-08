@@ -96,7 +96,7 @@ Interactive marketing website for a Lisbon cocktail bar using **React & JavaScri
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/goncalofm90/goncalofm90/output/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/goncalofm90/goncalofm90/output/dist/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
