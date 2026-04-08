@@ -28,7 +28,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COLOR_SNAKE: FF00FF # magenta
-          BACKGROUND_COLOR: 111827 # Tokyo Night dark
 
       - name: Push to output branch
         run: |
