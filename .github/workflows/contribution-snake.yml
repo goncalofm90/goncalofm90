@@ -1,0 +1,31 @@
+name: GitHub Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Contribution Snake SVG
+        uses: Ileriayo/gh-contribution-grid-snake@v2
+        with:
+          username: goncalofm90
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output: ./output/github-contribution-grid-snake.svg
+          color: "#FF00FF" # magenta
+          background: "#111827" # dark Tokyo Night background
+          animate: true
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add ./output/github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake" || echo "No changes to commit"
+          git push
