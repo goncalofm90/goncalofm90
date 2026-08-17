@@ -115,7 +115,7 @@ Interactive marketing website for a Lisbon cocktail bar using **React & JavaScri
 
 ## 🤝 Let’s Connect
 
-If you’re interested in collaborating, freelancing, or talking tech:
+See more of my work:
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/goncalo-mendes" target="_blank" rel="noopener noreferrer">goncalo-mendes</a>  
 - 🌐 Portfolio: <a href="https://gm-porfolio-2026.vercel.app" target="_blank" rel="noopener noreferrer">gm-porfolio-2026.vercel.app</a>  
